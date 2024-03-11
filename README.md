@@ -8,7 +8,7 @@
 <img scr="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" style="width:60px"> VsCode<br>
 
 | Linguagem|Descrição|
-|-||:-:|
+|-|:-:|
 |HTML|Linguagem de hyper texto para Web|
 |CSS|Linguagem de estilização de páginas Web|
 |MarkDown|Linguagem de formatção de texto word|
